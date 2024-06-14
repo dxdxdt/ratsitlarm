@@ -1,6 +1,6 @@
 __pycache__
 
-/src/query.json
+/src/query.jsonc
 /src/config.jsonc
 /lambda_function
 /lambda_function.zip

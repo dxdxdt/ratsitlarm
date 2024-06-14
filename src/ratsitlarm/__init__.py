@@ -80,7 +80,7 @@ def procResult (doc) -> bool:
 		return root
 
 def doQuery () -> bool:
-	with open("query.json") as q:
+	with open("query.jsonc") as q:
 		json = pyjson5.load(q)
 		with requests.post(
 				"https://www.ratsit.se/api/search/person",
