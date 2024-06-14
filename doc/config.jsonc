@@ -1,0 +1,20 @@
+{
+	"recipients": [
+		{
+			"type": "aws-sns",
+			// "profile": "default",
+			// "region": "...",
+			// "subject": "Ratsitlarm hit",
+			"topic": "..."
+		}
+	],
+	"disable-events": [
+		{
+			"type": "aws",
+			// "profile": "default",
+			// "region": "...",
+			// "bus": "default",
+			"rule": "..."
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"who": "doe",
+	"gender": [
+		"0", // kvinna
+		"1" // man
+	],
+	"martialStatus": [
+		"0", // ogift
+		"1" // gift
+	],
+	"age": [
+		"20",
+		"21"
+		// ...
+	],
+	"phoneticSearch": true,
+	"firstName": "jane",
+	"lastName": "doe",
+	"personNumber": "",
+	"phone": "",
+	"address": "",
+	"postnr": "",
+	"postort": "",
+	"kommun": "",
+	"page": 1
+}

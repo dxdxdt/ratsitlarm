@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Python: ratsitlarm",
+			"type": "debugpy",
+			"request": "launch",
+			"cwd": "${workspaceFolder}/src",
+			"module": "ratsitlarm",
+			"args": [],
+			"console": "integratedTerminal",
+			"justMyCode": false
+		},
+	]
+}
